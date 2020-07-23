@@ -1,1 +1,1 @@
-# kracken
+# kracken-openssl
